@@ -1,0 +1,7 @@
+comvimal/unityproject/MainActivity.java
+ comvimal.unityproject.MainActivity
+ comvimal.unityproject.MainActivity$1
+comvimal/unityproject/BuildConfig.java
+ comvimal.unityproject.BuildConfig
+comvimal/unityproject/UnityPlayerActivity.java
+ comvimal.unityproject.UnityPlayerActivity
